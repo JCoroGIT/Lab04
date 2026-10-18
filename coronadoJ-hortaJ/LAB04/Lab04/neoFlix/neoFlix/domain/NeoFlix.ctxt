@@ -1,0 +1,31 @@
+#BlueJ class context
+#Sat Oct 17 19:18:18 COT 2026
+comment0.target=NeoFlix
+comment0.text=\n NeoFlix\n @author DOPO\n @version ECI 2026\n
+comment1.target=NeoFlix()
+comment1.text=\n Create a NeoFlix\n
+comment10.target=int numberContents()
+comment10.text=\n Consult the number of episodes\n @return \n
+comment2.target=void addSomeSeries()
+comment2.text=\n Adds sample series and episodes to NeoFlix.\n
+comment3.params=name
+comment3.target=Content consult(java.lang.String)
+comment3.text=\n Consult a contents\n @param name\n
+comment4.params=title series attempts completed votes sumVotes
+comment4.target=void addEpisode(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+comment4.text=\n Adds a new episode.\n @param title\n @param series\n @param attempts\n @param completed\n @param votes\n @param sumVotes\n
+comment5.params=title year theEpisodes
+comment5.target=void addSeries(java.lang.String, java.lang.String, java.lang.String)
+comment5.text=\n Add a new series\n @param title\n @param year\n @param theEpisodes the titles of the episodes separated by newlines\n
+comment6.params=prefix
+comment6.target=java.util.ArrayList select(java.lang.String)
+comment6.text=\n Returns the contents whose title starts with the given prefix\n @param prefix\n @return \n
+comment7.params=selected withIndicators
+comment7.target=java.lang.String data(java.util.ArrayList, boolean)
+comment7.text=\n Return the data of the selected contents\n @param selected the selected contents\n @param withIndicators true if indicators should be included\n @return  \n
+comment8.params=prefix
+comment8.target=java.lang.String search(java.lang.String)
+comment8.text=\n Return the data of episodes with a prefix\n @param prefix\n @return  \n
+comment9.target=java.lang.String toString()
+comment9.text=\n Return the data of all episodes\n @return  \n
+numComments=11

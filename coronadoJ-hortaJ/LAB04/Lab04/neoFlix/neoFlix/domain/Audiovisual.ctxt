@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Audiovisual
+comment1.params=title\ attempts\ completed\ votes\ sumVotes
+comment1.target=Audiovisual(java.lang.String,\ int,\ int,\ int,\ int)
+comment2.params=title
+comment2.target=Audiovisual(java.lang.String)
+comment3.params=
+comment3.target=int\ popularity()
+comment4.params=
+comment4.target=int\ rating()
+comment5.params=withIndicators
+comment5.target=java.lang.String\ data(boolean)
+numComments=6

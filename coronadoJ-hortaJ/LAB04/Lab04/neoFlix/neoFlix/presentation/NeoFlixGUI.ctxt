@@ -1,0 +1,36 @@
+#BlueJ class context
+#Sat Oct 17 21:34:46 COT 2026
+comment0.target=NeoFlixGUI
+comment0.text=\n @version ECI 2026\n
+comment1.target=NeoFlixGUI()
+comment10.params=ev
+comment10.target=void actionPerformed(java.awt.event.ActionEvent)
+comment11.params=ev
+comment11.target=void actionPerformed(java.awt.event.ActionEvent)
+comment12.params=ev
+comment12.target=void actionPerformed(java.awt.event.ActionEvent)
+comment13.params=ev
+comment13.target=void changedUpdate(javax.swing.event.DocumentEvent)
+comment14.params=ev
+comment14.target=void insertUpdate(javax.swing.event.DocumentEvent)
+comment15.params=ev
+comment15.target=void removeUpdate(javax.swing.event.DocumentEvent)
+comment16.target=void actionList()
+comment17.target=void actionAdd()
+comment18.target=void actionSearch()
+comment19.params=args
+comment19.target=void main(java.lang.String[])
+comment2.params=e
+comment2.target=void unexpectedError(java.lang.Exception)
+comment20.params=t e
+comment20.target=void uncaughtException(java.lang.Thread, java.lang.Throwable)
+comment3.target=void prepareElements()
+comment4.target=javax.swing.JPanel prepareAreaList()
+comment5.target=javax.swing.JPanel prepareAreaAdd()
+comment6.target=javax.swing.JPanel prepareSearchArea()
+comment7.target=void prepareActions()
+comment8.params=ev
+comment8.target=void windowClosing(java.awt.event.WindowEvent)
+comment9.params=ev
+comment9.target=void actionPerformed(java.awt.event.ActionEvent)
+numComments=21

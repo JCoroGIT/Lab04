@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Content
+comment1.params=title
+comment1.target=Content(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment2.text=\r\n\ Return\ the\ title\r\n\ @return\r\n
+comment3.params=
+comment3.target=int\ rating()
+comment3.text=\r\n\ Return\ the\ rating\ [0..10]\r\n\ @return\r\n\ @throws\ NeoFlixException,\ if\ it\ cannot\ be\ calculated.\r\n
+comment4.params=
+comment4.target=int\ popularity()
+comment4.text=\r\n\ Return\ the\ popularity\ [0..100]\r\n\ @return\r\n\ @throws\ NeoFlixException,\ if\ the\ information\ cannot\ be\ calculated.\r\n
+comment5.params=withIndicators
+comment5.target=java.lang.String\ data(boolean)
+comment5.text=\r\n\ Return\ the\ textual\ representation\r\n\ @param\ withIndicators\ if\ indicators\ should\ be\ included\r\n\ @return\r\n\ @throws\ NeoFlixException,\ if\ it\ cannot\ be\ displayed\r\n
+numComments=6

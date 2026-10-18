@@ -1,0 +1,8 @@
+#BlueJ class context
+#Fri Oct 16 18:25:01 COT 2026
+comment0.target=SeriesTest
+comment1.target=void shouldCalculateSeriessRating()
+comment2.target=void shouldThrowExceptionIfTheSeriessHasNoEpisodes()
+comment3.target=void shouldThrowExceptionWhenAnEpisodeRatingIsUnknown()
+comment4.target=void shouldThrowExceptionIfAEpisodeContainsInvalidRatingData()
+numComments=5

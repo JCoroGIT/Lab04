@@ -1,0 +1,18 @@
+#BlueJ class context
+#Sat Oct 17 17:26:02 COT 2026
+comment0.target=Series
+comment1.params=title year
+comment1.target=Series(java.lang.String, int)
+comment2.params=e
+comment2.target=void addEpisode(Episode)
+comment3.target=int rating()
+comment3.text=\n Returns the calculated rating\n @return\n @throws NeoFlixException, CONTENT_EMPTY if the series has no episodes\n                         , VALUE_UNKNOWN if the rating for any episode is unknown\n                         , DATA_ERROR if the rating for any episode cannot be calculated due to a data error\n
+comment4.params=default_
+comment4.target=int rating(int)
+comment4.text=\n Returns the calculated rating, using the default value for episodes with an unknown rating and ignoring those with errors.\n @return\n @throws NeoFlixException, UNKNOWN_VALUE if the rating cannot be calculated.\n
+comment5.params=previous
+comment5.target=int rating(boolean)
+comment6.target=int popularity()
+comment7.params=withIndicators
+comment7.target=java.lang.String data(boolean)
+numComments=8

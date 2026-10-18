@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Collection
+comment1.params=title\ theme
+comment1.target=Collection(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ popularity()
+comment3.params=
+comment3.target=int\ rating()
+comment4.params=withIndicators
+comment4.target=java.lang.String\ data(boolean)
+numComments=5
